@@ -1,0 +1,26 @@
+<annotation>
+	<folder>T-Shirt</folder>
+	<filename>T-Shirt-63.jpg</filename>
+	<path>C:\Users\Gopi\Desktop\Data\T-Shirt\T-Shirt-63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>605</width>
+		<height>625</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>T-Shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>24</ymin>
+			<xmax>543</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>

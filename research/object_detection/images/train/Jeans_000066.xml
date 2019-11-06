@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jeans</folder>
+	<filename>Jeans_000066.jpg</filename>
+	<path>C:\Projects\Object Detection Reference\P6_1\models\research\object_detection\images\jeans\Jeans_000066.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>222</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>16</ymin>
+			<xmax>169</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>
